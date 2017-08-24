@@ -35,7 +35,7 @@ public class variaveis {
         String palavra = "Isto é uma string";
             
         //Se a variavelDoTipoInt for igual a 10
-        if (variavelDoTipoInt == 10){
+        if (variavelDoTipoInt == 100){
         //Imprima na tela Hello World!!!
         System.out.println("Hello World!!!");
         System.out.println("Esta variavel é do tipo short" + variavel1DoTipoShort);
