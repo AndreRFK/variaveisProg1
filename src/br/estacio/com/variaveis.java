@@ -21,6 +21,10 @@ public class variaveis {
         
         //Como declarar variáveis
         float posicaoDeMemoria;
+       
+        //Variavel double
+        double dobroNaMemoria;
+        dobroNaMemoria = 20;
         
         //Atribui um valor
         posicaoDeMemoria = 10;
