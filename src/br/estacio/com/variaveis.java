@@ -26,7 +26,7 @@ public class variaveis {
         posicaoDeMemoria = 10;
         
         
-        char caraCter, letra;
+        char caracter, letra;
         
         
         boolean verdadeiro=true, falso=false;
