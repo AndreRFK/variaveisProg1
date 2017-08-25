@@ -43,7 +43,7 @@ public class variaveis {
         System.out.println("Esta variavel é do tipo long" + variavel1DoTipoLong);
         System.out.println("Esta variavel é do tipo byte" + variavelDoTipoByte);
         System.out.println("Esta variavel é do tipo double" + variavel1DoTipoDouble);
-        System.out.println("Esta variavel é do tipo boolean" + variavel1DoTipoFloat);
+        System.out.println("Esta variavel é do tipo float" + variavel1DoTipoFloat);
         System.out.println("Esta variavel é do tipo boolean" + variavel1DoTipoBoolean);
         System.out.println("Esta variavel é do tipo char" + variavel1DoTipoCaracter);
         System.out.println("Esta variavel é do tipo String" + palavra);
