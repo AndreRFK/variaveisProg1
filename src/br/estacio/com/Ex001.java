@@ -25,7 +25,7 @@ public class Ex001 {
         //sout CTRL + SPACE
         System.out.println(z);
         
-        public class RFK {
+        class RFK {
         int idade = 22;
         String nome = "Andre Lima";
         double peso = 85;
@@ -33,3 +33,4 @@ public class Ex001 {
         String aniversario = "24/03/1995";
         }
     }
+}
