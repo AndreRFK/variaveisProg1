@@ -23,7 +23,13 @@ public class Ex001 {
         
 
         //sout CTRL + SPACE
-        System.out.println (z);
+        System.out.println(z);
+        
+        public class RFK {
+        int idade = 22;
+        String nome = "Andre Lima";
+        double peso = 85;
+        char sangue = 'A';
+        String aniversario = "24/03/1995";
+        }
     }
-    
-}
