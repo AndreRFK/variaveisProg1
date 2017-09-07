@@ -18,8 +18,25 @@ public class SufixoEPrefixo {
         // TODO code application logic here
         int prefixo = 10;
         int sufixo = 40;
-        
-        int diferencaPrefixo;
+
+        int diferencaPrefixo, diferencaSufixo;
+
+        diferencaPrefixo = ++prefixo;
+
+        System.out.println("Diferenca" + diferencaPrefixo);
+        System.out.println("Prefixo" + prefixo);
+
+        diferencaSufixo = sufixo++;
+
+        System.out.println("Diferenca2 " + diferencaSufixo);
+        System.out.println("Sufixo" + sufixo);
+
+        int a = 10;
+        if (a++ == 11) {
+            System.out.println("Sucesso");
+        } else {
+            System.out.println("Ferrou");
+        }
     }
-    
+
 }
