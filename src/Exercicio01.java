@@ -32,6 +32,4 @@ JOptionPane.showMessageDialog(null,
 System.exit(0);
 
 }
-}
-    
-}
+} 
